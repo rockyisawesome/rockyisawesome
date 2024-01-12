@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandransh Pandey
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning to become full stack developer
+- Also Have 2 years of experience in VBA Excel automation
 - 📫 Mail me at "chandranshpandey@outlook.com" for any query
 
 <!---
