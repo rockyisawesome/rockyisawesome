@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandransh Pandey
 - 👀 I’m interested in Web Development
-- Also Have 3 years of experience in VBA Excel automation
+- Also Have 3 years of experience in VBA, JAVA, Golang developer
 - 📫 Mail me at "pandeychandransh@gmail.com" for any query
 
 <!---
