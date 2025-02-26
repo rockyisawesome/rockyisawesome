@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandransh Pandey
 - 👀 I’m interested in Web Development
-- Also Have 3 years of experience in VBA, JAVA, Golang developer
+- Also Have more than 3 years of experience in DSA, Java, Postgres, MongoDb, Kafka, Golang...
 - 📫 Mail me at "pandeychandransh@gmail.com" for any query
 
 <!---
